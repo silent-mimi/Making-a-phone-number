@@ -11,7 +11,7 @@
 ```
 pkg install python
 pkg install git
-git clone https://github.com/silent69-commits/Making-a-phone-number.git
+git clone https://github.com/silent-mimi/Making-a-phone-number.git
 cd Making-a-phone-number
 ```
 # Running in Termux
